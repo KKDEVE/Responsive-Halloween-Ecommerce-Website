@@ -741,6 +741,7 @@ button {
     background-color: transparent;
     padding-left: 1rem;
     color: var(--text-color);
+    width: 9rem;
 }
 
 ::placeholder {
